@@ -1,0 +1,1 @@
+python3 trt_test.py --model1=/home/jtmeng/work/ai-microscope/algorithms/models/ki67/ki67_cell_model.pb --input_node1 'input_img' --output_node1 'output_1' --model2=/home/jtmeng/work/ai-microscope/algorithms/models/ki67/ki67_cell_model.pb --input_node2 'input_img' --output_node2 'output_1'
